@@ -24,7 +24,7 @@ redirect_from:
 
 ## Working Experience
 
-* **Quality Assurance Engineer**, PT. Sinar Mitra Sepadan Finance <span style="float: right;"> December 2022 - Current</span>\
+* **Quality Assurance Engineer**, PT. Sinar Mitra Sepadan Finance <span style="float: right;"> December 2022 - January 2025</span>\
   <span class='desc'>- Conduct manual testing including functional testing & stress testing</span>\
   <span class='desc'>- Perform automation testing using Selenium and Robot frameworks</span>\
   <span class='desc'>- Execute API testing with Postman</span>\
@@ -33,7 +33,7 @@ redirect_from:
   <span class='desc'>- Assist developers in building and deploying using tools like Jenkins and terminal deployment</span>\
   <span class='desc'>- Manage the scrum board for the Digital Transformation team</span>
 
-* **Management Development Pgrogram (MDP)**, PT. Sinar Mitra Sepadan Finance <span style="float: right;"> July 2022 - Des 2022</span>\
+* **Management Development Pgrogram (MDP)**, PT. Sinar Mitra Sepadan Finance <span style="float: right;"> July 2022 - Desember 2022</span>\
  <span class='desc'>- Contributing to the development of training programs for new leadership trainees in the organization</span>\
  <span class='desc'>- Improved knowledge of system analysis and technical writing through on-the-job training and feedback from the team</span>\
  <span class='desc'>- Developing strong analytical skills and creating meaningful reports that help in decision-making and program improvement</span>
